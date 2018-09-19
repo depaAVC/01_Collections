@@ -4,6 +4,8 @@ import java.lang.reflect.Array;
 import java.util.Collection;
 import java.util.Iterator;
 
+// --------------------- Solution ----------------------
+
 /**
  * A convenience implementation of the java.util.Collection interface. It allows
  * to store <code>null<code> elements and supports modifiable collections.

@@ -4,6 +4,8 @@ import java.util.ConcurrentModificationException;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
+// Importing my personal implementation:
+import ch.fhnw.AbstractCollection;
 /**
  * This is a very simple implementation of the Collection interface. A
  * SimpleCollection may contain the same element more than once and it does
